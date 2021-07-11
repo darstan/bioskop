@@ -11,6 +11,8 @@ class Math{
     function jimmy(){
         return 'jimmy';
     }
+
+    protected $novoPolje = 'novo';
 }
 
 ?>
