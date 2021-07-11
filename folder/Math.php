@@ -12,7 +12,7 @@ class Math{
         return 'jimmy';
     }
 
-    protected $novoPolje = 'novo';
+    protected $novoPolje = 'nova izmena';
 }
 
 ?>
